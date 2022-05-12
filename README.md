@@ -11,7 +11,7 @@ For manipulating polynomials, representing sparse matrices…etc
 Doubly linked list can be used in navigation systems.
 Doubly linked list is also used by various application to implement Undo and Redo functionality.
 Advanced data structures like Fibonnacci Heap are implemented using circular doubly linked lists.
-<h1>Applications of Trees 
+<h1>Applications of Trees </h1>
 To search an element in a set quickly, Binary Search Trees(BSTs) are used.
 Heap sort is done by a kind of tree called Heap.
 Tries are modified version of trees used to store routing informations in routers.
